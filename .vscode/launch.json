@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open app.component.html",
+            "file": "c:\\Users\\Susana Alvarado\\Documents\\angular\\01-bases\\src\\app\\app.component.html"
+        },
+        {
+            "type": "node-terminal",
+            "name": "Run Script: ng",
+            "request": "launch",
+            "command": "npm run ng serve",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
